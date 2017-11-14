@@ -8,10 +8,7 @@ stage("Build")
 {
    
 }
-stage("QA")
-{
-    
-}
+
 stage("articraft")
 {
     
